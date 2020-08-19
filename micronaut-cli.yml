@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: kotlintest
+sourceLanguage: kotlin
+buildTool: gradle
+features: [app-name, docker, file-watch, gradle, http-client, kotlin, kotlin-application, kotlintest, logback, management, netty-server, readme, shade, yaml]
