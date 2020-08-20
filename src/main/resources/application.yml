@@ -1,3 +1,9 @@
 micronaut:
   application:
     name: demo
+endpoints:
+    loggers:
+        enabled: true
+logger:
+    levels:
+        foo: ERROR
